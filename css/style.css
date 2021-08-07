@@ -1,0 +1,183 @@
+.image1{
+  width: 60px;
+  height: 60px;
+}
+
+#navbarDropdownMenuLink{
+    color: #00bcd4;
+   
+}
+
+#blue{
+    color: #f06292;
+    
+}
+
+#button1{
+    color: #f06292;
+    background-color: white;
+    border: white;
+}
+
+#button1:hover{
+    color: #00bcd4;
+}
+
+form{
+    margin-top: 3%;
+}
+
+
+.navbar-brand{
+    font-family: 'Reggae One', cursive;
+    
+}
+
+
+#navi{
+    background-color: white;
+}
+
+.blogo img{
+    width: 300px;
+    height: 300px;
+    margin-top: 10%;
+    margin-left: 20%;
+}
+
+.fa-newspaper{
+    color:#f06292;
+    font-size: 300%;
+    margin-left: 10%;
+}
+
+
+.fa-photo-video{
+    color:#f06292;  
+    font-size: 300%;
+    margin-left: 10%;
+}
+
+.fa-running{
+    color:#f06292;
+    font-size: 300%;
+    margin-left: 10%;
+}
+
+.fontt i{
+    float: left;
+    width: 15.33%;  
+}
+
+.fontt h2 .fontt p{
+    float: right ;
+}
+
+
+.font-1 h2{
+    margin-left: 10%;
+}
+
+.font-1 {
+    margin-top: 10%;
+}
+
+.font-2{
+    margin-top: 10%;
+}
+
+.font-3{
+    margin-top: 10%;
+}
+
+.fontt a{
+    text-decoration: none;
+    color:  #00bcd4;
+}
+
+.p-1  {
+    margin-left: 20%;
+}
+
+.p-2{
+    margin-left: 20%;
+}
+
+.p-3{
+    margin-left: 20%;
+}
+
+.p-4{
+    margin-left: 20%;
+}
+
+.p-5{
+    margin-left: 20%;
+}
+
+.fa-moon{
+    color: #00bcd4;
+   
+}
+
+.moon{
+    float: right;
+}
+
+.dropdown{
+    float: left;
+}
+
+.nat-es{
+   margin-left: 10%;
+}
+
+.best{
+    color:#f06292 ;
+    text-align: center;
+}
+
+.btn-1{
+    color:#00bcd4 ;
+    background-color: #f06292;
+    padding: 5px 15px;
+    border-color:#f06292 ;
+    border-radius: 10%;
+    margin-left: 30%;
+}
+
+.btn-1:hover{
+    color: #f06292;
+    background-color:#00bcd4 ;
+    border-color:#00bcd4 ;
+}
+
+.body{
+    width: 10cm;
+    height: 11cm;
+    margin-left: 10%;
+}
+
+.kama{
+    width: 9cm;
+    height: 11cm;
+    margin-left: 10%;
+}
+
+.sportsh1{
+    text-align: center;
+    color:#f06292 ;
+
+}
+
+.banner{
+    width: 12cm;
+    height: 7cm;
+}
+
+.banner img{
+  max-width: 100%;
+  min-width: 100%;
+  max-height: 100%;
+  min-height: 100%;
+}
